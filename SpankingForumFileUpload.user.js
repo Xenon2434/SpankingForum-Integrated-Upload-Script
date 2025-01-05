@@ -2,8 +2,9 @@
 // @name         GoFile/ImgBB File Upload for SpankingForum.su
 // @match        https://spankingforum.su/threads/*
 // @match        https://spankingforum.su/forums/*/post-thread
+// @match        https://spankingforum.su/direct-messages/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=spankingforum.su
-// @require		   https://code.jquery.com/jquery-latest.min.js
+// @require		 https://code.jquery.com/jquery-latest.min.js
 // @require      https://gist.github.com/raw/2625891/waitForKeyElements.js
 // ==/UserScript==
 
