@@ -1,8 +1,3 @@
-waitForKeyElements (
-    ".fr-word-counter", click
-);
-
-function click() {
     $(document).ready(function() {
         let selectedServer = '';
 
@@ -356,4 +351,3 @@ function click() {
             editor.append(`<p>[IMG]${thumbnail}[/IMG]</p>`);
         }
     });
-}
